@@ -21,14 +21,37 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 
 [Wheelchair Connect](/pages/project1_wcc) -- web-based application
 <img src="images/project_.net.png?raw=true"/>
-<span class="skills">test</span>
----
-[Aesop fable application](/pages/project2_aesop) -- android application
-<img src="images/project_android1.jpg?raw=true"/>
+<span class="skills">ASP .NET Core</span>
+<span class="skills">ASP .NET MVC</span>
+<span class="skills">MySQL</span>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+[Aesop fable application](/pages/project2_aesop) -- android application
+<img src="images/project_android1.jpg?raw=true"/>
+<span class="skills">Kotlin</span>
+<span class="skills">Firebase</span>
+
+---
+
+[DietPlanner](#) -- android application
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<span class="skills">Kotlin</span>
+<span class="skills">Firebase</span>
+
+---
+
+[WhaleAlert to LineNotify](#) -- google app script(javascript)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<span class="skills">Google App Script</span>
+<span class="skills">javascript</span>
+
+---
+
+[On working portfolio](#) -- NextJS
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<span class="skills">ReactJS</span>
+<span class="skills">NextJS</span>
 
 ---
 
