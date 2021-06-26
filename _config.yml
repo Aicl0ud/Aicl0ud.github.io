@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/teerasit-wongpa-9646b813b/" class="fa fa-linkedin"></a>
   <a href="#" class="fa fa-github" aria-hidden="true"></a>
-  <a href="#" class="fab fa-google"></a> 
+  <a href="#" class="fa fa-google"></a> 
   
 theme: jekyll-theme-minimal
 google_analytics: G-CLRL9HT8WP # your Google Analytics tracking ID here
