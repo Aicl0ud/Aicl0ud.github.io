@@ -55,18 +55,47 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 
 ---
 
-### Skills / Languages / Interests
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+### Skills
+>Programing language
+```
+- Java
+- Kotlin
+- C
+- .NET
+- javascript
+- Python
+- Nextjs
+- HTML&CSS
+- MYSQL
+```
+>Proxy
+```
+- Nginx
+- Flask
+```
+>Operating system
+```
+- Docker
+- Kubernetes
+- LinuxOS
+- WindowsOS
+```
+>Tools
+```
+- VS Code
+- Jupyter notebook
+- Android studio
+- Postman
+```
 ---
 
+### Interests
 
-
+```
+- React Native
+- Kubernetes
+- Ruby on rails
+```
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
