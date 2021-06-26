@@ -49,9 +49,13 @@
     <script src="{{ "/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
-      var date='04/06/1998'
+      var date = new Date('06/04/1998');
+      var calc = Date.now() - date.getTime();
+      var nAge = new Date(calc)
+      var year = nAge.getUTCFullYear();
+      var age = Math.abs(year-1970).toString()+" years";
       window.onload = function() {
-       document.getElementById("age").innerHTML=date;
+       document.getElementById("age").innerHTML=age;
        } 
 
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
