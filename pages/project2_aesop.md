@@ -8,24 +8,24 @@
 
 ### 1. Icon
 
-<img src="images/project_android1/asset1.jpg?raw=true"/>
+<img src="images/project_android1/asset1.png?raw=true"/>
 
 
 ### 2. Splash screen
 
-<img src="images/project_android1/asset2.jpg?raw=true"/>
+<img src="images/project_android1/asset2.png?raw=true"/>
 
 
 ### 3. Main page
 
-<img src="images/project_android1/asset3.jpg?raw=true"/>
+<img src="images/project_android1/asset3.png?raw=true"/>
 
 ### 4. Media player
 
-<img src="images/project_android1/asset4.jpg?raw=true"/>
+<img src="images/project_android1/asset4.png?raw=true"/>
 
 ### 5. Aesop fable library
 
-<img src="images/project_android1/asset5.jpg?raw=true"/>
+<img src="images/project_android1/asset5.png?raw=true"/>
 
 For more details see [GitHub Aesop Official](https://github.com/Aicl0ud/Aesop_Official).
