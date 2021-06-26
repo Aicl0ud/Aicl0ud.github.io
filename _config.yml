@@ -10,8 +10,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/teerasit-wongpa-9646b813b/" class="fa fa-linkedin"></a>
   <a href="https://github.com/Aicl0ud" class="fa fa-github" aria-hidden="true"></a>
-  <a id="mail" class="fa fa-google"></a> 
-  <a id="phone" class="fa fa-phone"></a>
+  <a href="mailto:teerasit.won@gmail.com" class="fa fa-google"></a> 
+  <a href="tel:+66925531998" class="fa fa-phone"></a>
   
 theme: jekyll-theme-minimal
 google_analytics: G-CLRL9HT8WP # your Google Analytics tracking ID here
