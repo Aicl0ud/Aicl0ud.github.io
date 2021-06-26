@@ -2,7 +2,22 @@
 
 ---
 
-### Category Name 1 
+### About me
+You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I love to code, eat, and self-driven learner. I'm dedicated to work and always be 'can do' attitude. Hopefully to know you too 😀.
+
+---
+
+### Education
+
+Mahidol University, Nakhon Pathom -- Bachelor's degree
+Aug 2017 - Jun 2021
+
+St. Peter School, Nakhon Pathom -- High school
+Oct 2004 - May 2017
+
+---
+
+### Work experience 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +32,7 @@
 
 ---
 
-### Category Name 2
+### Skills / Languages / Interests
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
