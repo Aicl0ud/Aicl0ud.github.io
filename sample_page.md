@@ -1,5 +1,4 @@
-[<span class="material-icons">&#xE87C;</span>](https://aicl0ud.github.io/)
-<span class="material-icons">&#xE87C;</span>
+[<span class="material-icons">&#xe5e0;</span>](https://aicl0ud.github.io/)
 
 ## This can be your internal website page / project page
 
