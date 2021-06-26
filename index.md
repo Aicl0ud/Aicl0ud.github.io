@@ -13,7 +13,12 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 
 > Aug 2017 - Jun 2021
 
+<<<<<<< HEAD
 <b>St. Peter School</b>, Nakhon Pathom -- High school
+=======
+
+St. Peter School, Nakhon Pathom -- High school
+>>>>>>> f6ab643 (icon added)
 
 > Oct 2004 - May 2017
 
