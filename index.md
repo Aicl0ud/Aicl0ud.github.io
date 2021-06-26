@@ -11,11 +11,11 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 
 <b>Mahidol University</b>, Nakhon Pathom -- Bachelor's degree
 
-Aug 2017 - Jun 2021
+> Aug 2017 - Jun 2021
 
 <b>St. Peter School</b>, Nakhon Pathom -- High school
 
-Oct 2004 - May 2017
+> Oct 2004 - May 2017
 
 ---
 
