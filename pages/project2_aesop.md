@@ -1,6 +1,6 @@
 [<span class="material-icons">&#xe5e0;</span>](https://aicl0ud.github.io/)
 
-## This can be your internal website page / project page
+## Aesop fable application
 
 **Project description:** An online media player which can serve you a story of Aesop fable for free. This project using Kotlin, exoplayer, material design, and Firebase. For a release apk avaiable on github repository, you can click [here](https://github.com/Aicl0ud/Aesop_Official/files/6714762/Aesop-Official.zip) to download.
 
