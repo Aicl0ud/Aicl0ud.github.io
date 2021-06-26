@@ -214,7 +214,8 @@
 body{
     background-color:#fff;
     padding:50px;
-    font-family:14px/1.5 'Prompt', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-size: 14px/1.5;
     color:#727272;
     font-weight:400
 }
