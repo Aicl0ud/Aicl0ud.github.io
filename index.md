@@ -1,13 +1,13 @@
-## Portfolio
+## Portfolio :framed_picture:	
 
 ---
 
-### About me
+### About me :man_technologist:	
 You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I love to code, eat, and self-driven learner. I'm dedicated to work and always be 'can do' attitude. Hopefully to know you too 😀.
 
 ---
 
-### Education
+### Education :books:
 
 <b>Mahidol University</b>, Nakhon Pathom -- Bachelor's degree
 > Aug 2017 - Jun 2021
@@ -17,7 +17,7 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 
 ---
 
-### Work experience 
+### Work experience :computer:	
 
 [Wheelchair Connect](/pages/project1_wcc) -- web-based application
 <img src="images/project_.net.png?raw=true"/>
@@ -55,7 +55,7 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 
 ---
 
-### Skills
+### Skills :hatched_chick:	
 >Programing language
 ```
 - Java
@@ -89,12 +89,13 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 ```
 ---
 
-### Interests
+### Interests :sparkling_heart:		
 
 ```
 - React Native
-- Kubernetes
-- Ruby on rails
+- DevOps
+- Fullstack dev
+- Tea :tea:	
 ```
 
 ---
