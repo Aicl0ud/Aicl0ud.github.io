@@ -19,11 +19,11 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 
 ### Work experience 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/pages/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Aesop fable application](/sample_page)
+[Aesop fable application](/pages/project2_aesop)
 <img src="images/project_android1.jpg?raw=true"/>
 
 ---
