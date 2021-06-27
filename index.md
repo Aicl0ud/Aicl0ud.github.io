@@ -19,7 +19,7 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 
 ### Work experience 💻
 
-[Wheelchair Connect](/pages/project1_wcc) -- web-based application
+[Wheelchair Connect](/pages/project1_wcc) -- web-based application<br>
 <img src="images/project_.net.png?raw=true"/>
 <span class="skills">ASP .NET Core</span>
 <span class="skills">ASP .NET MVC</span>
@@ -27,14 +27,14 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 
 ---
 
-[Aesop fable application](/pages/project2_aesop) -- android application
+[Aesop fable application](/pages/project2_aesop) -- android application<br>
 <img src="images/project_android1.jpg?raw=true"/>
 <span class="skills">Kotlin</span>
 <span class="skills">Firebase</span>
 
 ---
 
-[DietPlanner](/pages/project3_dietplanner) -- android application
+[DietPlanner](/pages/project3_dietplanner) -- android application<br>
 <img src="images/project_dietplanner.png?raw=true"/>
 <span class="skills">Kotlin</span>
 <span class="skills">Firebase</span>
@@ -42,7 +42,7 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 ---
 
 [WhaleAlert to LineNotify](/pages/project4_whalealert) -- google app script(javascript)
-<img src="images/project_whalealert.jpg?raw=true"/>
+<img src="images/project_whalealert.jpg?raw=true" width="0.5em" height="0.5em"/>
 <span class="skills">Google App Script</span>
 <span class="skills">javascript</span>
 <span class="skills">Google Sheet</span>
