@@ -444,6 +444,9 @@ footer{
 .fa:hover {
     opacity: 0.7;
 }
+.fa-down {
+    top: 0.8em;
+}
 
 .skills {
     border-radius: 30px;
