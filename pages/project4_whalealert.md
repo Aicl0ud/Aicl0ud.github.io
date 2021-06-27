@@ -6,7 +6,6 @@
 
 ## Sample image
 
-<img src="images/project_whalealert.jpg?raw=true"/>
-allowfullscreen></iframe>
+<img src="../images/project_whalealert.jpg?raw=true"/>
 
 For more details see [GitHub VVhaleAl3rt-to-LINENotify](https://github.com/Aicl0ud/VVhaleAl3rt-to-LINENotify).
