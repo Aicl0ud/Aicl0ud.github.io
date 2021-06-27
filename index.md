@@ -1,4 +1,4 @@
-## Portfolio 🖼
+## Portfolio 📃
 
 ---
 
@@ -34,15 +34,15 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 
 ---
 
-[DietPlanner](#) -- android application
-<img src="images/project3_dietplanner.png?raw=true"/>
+[DietPlanner](/pages/project3_dietplanner) -- android application
+<img src="images/project_dietplanner.png?raw=true"/>
 <span class="skills">Kotlin</span>
 <span class="skills">Firebase</span>
 
 ---
 
-[WhaleAlert to LineNotify](#) -- google app script(javascript)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[WhaleAlert to LineNotify](/pages/project4_whalealert) -- google app script(javascript)
+<img src="images/project_whalealert.jpg?raw=true"/>
 <span class="skills">Google App Script</span>
 <span class="skills">javascript</span>
 <span class="skills">Google Sheet</span>
