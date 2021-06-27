@@ -28,21 +28,21 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 ---
 
 [Aesop fable application](/pages/project2_aesop) -- android application<br>
-<img src="images/project_android1.jpg?raw=true"/>
+<img src="images/project_android1.jpg?raw=true"/><br>
 <span class="skills">Kotlin</span>
 <span class="skills">Firebase</span>
 
 ---
 
 [DietPlanner](/pages/project3_dietplanner) -- android application<br>
-<img src="images/project_dietplanner.png?raw=true"/>
+<img src="images/project_dietplanner.png?raw=true"/><br>
 <span class="skills">Kotlin</span>
 <span class="skills">Firebase</span>
 
 ---
 
 [WhaleAlert to LineNotify](/pages/project4_whalealert) -- google app script(javascript)
-<img src="images/project_whalealert.jpg?raw=true" width="0.5em" height="0.5em"/>
+<img src="images/project_whalealert.jpg?raw=true" width="0.5em" height="0.5em"/><br>
 <span class="skills">Google App Script</span>
 <span class="skills">javascript</span>
 <span class="skills">Google Sheet</span>
@@ -101,24 +101,21 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
     <i class="fa fa-bookmark fa-stack-1x fa-down"></i>
     <i class="fa fa-certificate fa-stack-2x"></i>
     <i class="fa fa-circle fa-stack-1x fa-inverse"></i>
-    [GCP Fundamentals: Core Infrastructure](https://coursera.org/share/b81ecc41ec54dce838fa031e391ccc4d)
-</span>
+</span>[GCP Fundamentals: Core Infrastructure](https://coursera.org/share/b81ecc41ec54dce838fa031e391ccc4d)
 
 <span class="fa fa-stack fa-lg" style="color:blue">
     <i class="fa fa-bookmark fa-stack-1x fa-down"></i>
     <i class="fa fa-certificate fa-stack-2x"></i>
     <i class="fa fa-circle fa-stack-1x fa-inverse"></i>
-    [Architecting with Google Kubernetes Engine: Foundations
+</span>[Architecting with Google Kubernetes Engine: Foundations
 ](https://coursera.org/share/2c84c1565c785a0f8b4d7ef5df188d57)
-</span>
 
 <span class="fa fa-stack fa-lg" style="color:blue">
     <i class="fa fa-bookmark fa-stack-1x fa-down"></i>
     <i class="fa fa-certificate fa-stack-2x"></i>
     <i class="fa fa-circle fa-stack-1x fa-inverse"></i>
-    [Architecting with Google Kubernetes Engine: Workloads
+</span>[Architecting with Google Kubernetes Engine: Workloads
 ](https://coursera.org/share/798a0f1465df1b5a1618a41a92527aff)
-</span>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
