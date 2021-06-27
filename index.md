@@ -41,8 +41,8 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
 
 ---
 
-[WhaleAlert to LineNotify](/pages/project4_whalealert) -- google app script(javascript)
-<img src="images/project_whalealert.jpg?raw=true" width="0.5em" height="0.5em"/><br>
+[WhaleAlert to LineNotify](/pages/project4_whalealert) -- google app script(javascript)<br>
+<img src="images/project_whalealert.jpg?raw=true"/><br>
 <span class="skills">Google App Script</span>
 <span class="skills">javascript</span>
 <span class="skills">Google Sheet</span>
@@ -101,20 +101,20 @@ You can call me Kiw. I'm a student at the faculty of ICT, Mahidol University. I 
     <i class="fa fa-bookmark fa-stack-1x fa-down"></i>
     <i class="fa fa-certificate fa-stack-2x"></i>
     <i class="fa fa-circle fa-stack-1x fa-inverse"></i>
-</span>[GCP Fundamentals: Core Infrastructure](https://coursera.org/share/b81ecc41ec54dce838fa031e391ccc4d)
+</span> [GCP Fundamentals: Core Infrastructure](https://coursera.org/share/b81ecc41ec54dce838fa031e391ccc4d)
 
 <span class="fa fa-stack fa-lg" style="color:blue">
     <i class="fa fa-bookmark fa-stack-1x fa-down"></i>
     <i class="fa fa-certificate fa-stack-2x"></i>
     <i class="fa fa-circle fa-stack-1x fa-inverse"></i>
-</span>[Architecting with Google Kubernetes Engine: Foundations
+</span> [Architecting with Google Kubernetes Engine: Foundations
 ](https://coursera.org/share/2c84c1565c785a0f8b4d7ef5df188d57)
 
 <span class="fa fa-stack fa-lg" style="color:blue">
     <i class="fa fa-bookmark fa-stack-1x fa-down"></i>
     <i class="fa fa-certificate fa-stack-2x"></i>
     <i class="fa fa-circle fa-stack-1x fa-inverse"></i>
-</span>[Architecting with Google Kubernetes Engine: Workloads
+</span> [Architecting with Google Kubernetes Engine: Workloads
 ](https://coursera.org/share/798a0f1465df1b5a1618a41a92527aff)
 
 ---
